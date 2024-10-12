@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Birth",
+        "time": "11 July 2000",
+        "content": "I was born the 11th of July 200 in Vashi, Navi Mumbai to my parents as their second child. I spent the initial years of my chilhood in Bombay - learning and growing with every new experience"   
+    },
+    {
+        "id": 2,
+        "title": "Migration to Doha, Qatar",
+        "time": "July 2006",
+        "content": "In the summer of 2006, My parents, brother I moved to Doha, Qatar for the first time. I did my entire schooling in Doha, at Birla Public School"      
+    },
+    {
+        "id": 3,
+        "title": "Bronze Medal in World Robotics Olympiad - Arabia",
+        "time": "October 2012",
+        "content": "As a part of the school's robotic club since a young age, I participated in the Robotics related events. In 2012, My team and I came third in the entire Middle East for the creation of a Welfare Protection Automated Vehicle"  
+    },
+    {
+        "id": 4,
+        "title": "Silver Medal in National Robotics Olympiad",
+        "time": "October 2014",
+        "content": "Having taken a year break from the club, I returned to the competitive scene in 2014 where my team and I bagged second place for NRO. For this competition, we programmed and built a prototype for a space elevator for efficient material transfer to and from orbit."  
+    },
+    {
+        "id": 5,
+        "title": "Joined School Football Team",
+        "time": "January 2015",
+        "content": "Being obsessed with sports, especially football, early in 2015, I joined my school's Football Team and immediately rose to the first team - being the youngest member on the team that year"  
+    },
+    {
+        "id": 6,
+        "title": "Silver medal for School Olympic's Program - Football",
+        "time": "April 2018",
+        "content": "My three years of involvement with the school's football team came to a bitter-sweet end as we reached the finals of the School Olympics Program for football. Unfortunately, we failed at the last hurdle by a goal. However, the three years I had spent in this team shaped my character"  
+    },
+    {
+        "id": 7,
+        "title": "Graduated from BPS with CGPA of 94.8%",
+        "time": "May 2018",
+        "content": "My 12 years of schooling at BPS came to an end in March of 2018. I held the highest score for Computer Science in my school while also graduating in the top 5% of my batch"  
+    },
+    {
+        "id": 8,
+        "title": "Joined College of Engineering, Guindy, Anna University",
+        "time": "August 2018 - Present",
+        "content": "Pursuing my love for Computer Science, I enrolled for an Honor's Degree in Bachelor's in Engineering in Computer Science and Engineering. As of today, I am now a senior at this university with a CGPA of 9.52 after 6 semesters. I plan on pursuing a Graduate Degree in CS in Fall 2022"  
+    }
+]

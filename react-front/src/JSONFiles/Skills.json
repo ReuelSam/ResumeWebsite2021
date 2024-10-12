@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "Languages",
+        "items": [
+            "Python", "Java", "C", "C++"            
+        ]       
+    },
+    {
+        "id": 2,
+        "title": "Database",
+        "items": [
+            "MongoDB", "MySQL"            
+        ]       
+    },
+    {
+        "id": 3,
+        "title": "Scripting",
+        "items": [
+            "JavaScript", "PHP"            
+        ]       
+    },
+    {
+        "id": 4,
+        "title": "Front-End",
+        "items": [
+            "HTML", "CSS", "ReactJS", "Bootstrap", "TailWind"            
+        ]       
+    },
+    {
+        "id": 5,
+        "title": "Back-End",
+        "items": [
+            "NodeJS", "Flask"            
+        ]     
+    },
+    {
+        "id": 6,
+        "title": "Machine Learning",
+        "items": [
+            "TensorFlow", "Keras", "Sklearn"            
+        ]       
+    },
+    {
+        "id": 7,
+        "title": "Development Tools",
+        "items": [
+            "Github", "Jupyter Notebook", "Kaggle", "Collab"            
+        ]       
+    },
+    {
+        "id": 8,
+        "title": "Operating Systems",
+        "items": [
+            "Windows", "Ubuntu", "macOS"            
+        ]       
+    },
+    {
+        "id": 9,
+        "title": "Fields of Interest",
+        "items": [
+            "Computer Vision", "Robotics", "Web Application Development", "Server Side Development", "Deep Learning"            
+        ]       
+    }
+    
+]

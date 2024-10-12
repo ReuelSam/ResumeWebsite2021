@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "High School",
+        "name": "Birla Public School",
+        "location": "Doha, Qatar",
+        "time": "July 2006 - March 2018",
+        "info": "Birla Public School is one of Qatar's most prestigious Indian Schools that follow the Central Board of Secondary Education's Curriculum.",
+        "content": "My entire schooling was done at BPS (Grade 1-12). I graduated at the top of my batch in Computer Science with a score of 99/100.",
+        "cgpa": 94.8       
+    },
+    {
+        "id": 2,
+        "name": "College of Engineering, Guindy, Anna University",
+        "title": "Undergraduate",
+        "location": "Chennai, Tamil Nadu, India",
+        "time": "August 2018 - Present",
+        "info": "The College of Engineering, Guindy is a public engineering college in Chennai, India and is Asia's oldest technical institution, founded in 1794. Currently, it acts as the main campus for Anna University",
+        "content": "I am currently pursuing my under-graduate degree in BE Computer Science and Engineering at CEG. In my 7 semesters here, I have been blessed with the opportunities to grow in knowledge and maturity",
+        "cgpa": 9.52
+    },
+    {
+        "id": -1,
+        "title": "Graduate",
+        "name": "Aspirant"
+    }
+]

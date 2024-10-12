@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Sports",
+        "items": [
+            "Football: School Football Team", "Basketball"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Music",
+        "items": [
+            "Piano", "Drums", "Guitar"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Theatre",
+        "items": [
+            "Member of College Drama Club - Theatron"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Debate",
+        "items": [
+            "USG Head of Technology and Design – AUMUN"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Entrepreneurship",
+        "items": [
+            "Member of College Entrepreneurship Club – Capitalize"
+        ]
+    }
+]

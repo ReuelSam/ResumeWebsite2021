@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "title": "Bunk O' Bed",
+        "year": "2021",
+        "content": "A Java application that aims to recreate features based on a popular company, Airbnb",
+        "code": "https://github.com/ReuelSam/Java-Project-BunkOBed"
+    },
+    {
+        "id": 2,
+        "title": "AUMUN 2021 Website",
+        "year": "2021",
+        "content": "Developed fully functional responsive website Anna University's second Model United Nations that acted as a gateway and portal for information",
+        "code": "https://github.com/ReuelSam/AUMUN-2021"
+    },
+    {
+        "id": 3,
+        "title": "Classification and Ablation Study on CIFAR-10 Dataset",
+        "year": "2020",
+        "content": "Machine Learning project with GUI with an interactive UI that classifies CIFAR-10 dataset with 88% accuracy",
+        "code": "https://github.com/ReuelSam/CIFAR-10"
+    },
+    {
+        "id": 4,
+        "title": "Feature Extraction from Comments and Data Analysis",
+        "year": "2020",
+        "content": "Combines concepts of lexical analysis, database management and machine learning to extract features from comments on social media posts and then analyze the data",
+        "code": "https://github.com/ReuelSam/Feature-Extraction-From-Comments"
+    },
+    {
+        "id": 5,
+        "title": "Bizarre Fights",
+        "year": "2020",
+        "content": "A player versus player and player versus computer game built upon semi realistic physics uisng PyGame",
+        "code": "https://github.com/ReuelSam/BizarreFights-PyGame"
+    },
+    {
+        "id": 6,
+        "title": "Jump Street",
+        "year": "2017",
+        "content": "Python based infinite platformer game with semi realistic physics featuring a file system for account management and score storage",
+        "code": "https://github.com/ReuelSam/JumpStreet"
+    }
+
+]

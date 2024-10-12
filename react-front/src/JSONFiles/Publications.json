@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "title": "IJIIT: Event-based Social Networking System with Recommendation Engine (Under Review)",
+        "year": "2021",
+        "content": "A Social Media Network for hosting and managing events clubbed with a Recommendation System that suggests users with events based on their interests and to their interaction with the system. This has been built with MERN Stack and deployed using Amazon Web Services",
+        "journal": "https://www.igi-global.com/journal/international-journal-intelligent-information-technologies/1089",
+        "code": "https://github.com/Steven-F-G/Evento"
+    }
+]

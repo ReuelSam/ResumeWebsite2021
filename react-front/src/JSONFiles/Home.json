@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "My Profile",
+        "content1": "I am currently pursuing my Undergraduate degree in Computer Science and Engineering in India. I aim to pursue my Higher Studies in Fall 2022",
+        "content2": "Email: reuelsam@gmail.com",
+        "websitePath": "/Profile"    
+    },
+    {
+        "id": 2,
+        "title": "Education",
+        "content1": "Birla Public School",
+        "content2": "College of Engineering, Guindy, Anna University",
+        "websitePath": "/Education"    
+    },
+    {
+        "id": 3,
+        "title": "Skills",
+        "content1": "Languages: Python, Java, C, C++",
+        "content2": "OS: Windows, Linux, macOS",
+        "websitePath": "/Skills"    
+    },
+    {
+        "id": 4,
+        "title": "Projects",
+        "content1": "AUMUN 2021 Website",
+        "content2": "Bunk'O Bed",
+        "websitePath": "/Projects"    
+    },
+    {
+        "id": 5,
+        "title": "Publications",
+        "content1": "IJIIT: Event-based Social Networking System with Recommendation Engine (Under Review)",
+        "content2": "",
+        "websitePath": "/Publications" 
+    },
+    {
+        "id": 6,
+        "title": "Miscellaneous",
+        "content1": "Sports: Football, Basketball",
+        "content2": "Instruments: Piano, Drums, Guitar",
+        "websitePath": "/Miscellaneous" 
+    }
+]
